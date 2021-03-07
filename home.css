@@ -1,0 +1,4 @@
+body {font-size: 18pt;}
+b:only-of-type {
+    color: rgb(32, 32, 156);
+}
